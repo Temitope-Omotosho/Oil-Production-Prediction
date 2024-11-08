@@ -1,7 +1,3 @@
-Here’s a concise GitHub README summary for your project based on the details from the paper:
-
----
-
 # Oil Production Prediction Using Time Series Forecasting and Machine Learning Techniques
 
 This project provides a comparative analysis of time series forecasting and machine learning models for predicting oil production, particularly in the context of the Volve production field in Norway. The goal is to build an accurate and robust model that can assist production engineers in optimizing extraction processes and managing resources effectively.
